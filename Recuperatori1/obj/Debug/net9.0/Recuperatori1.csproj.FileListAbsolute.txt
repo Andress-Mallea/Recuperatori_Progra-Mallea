@@ -1,0 +1,14 @@
+C:\Users\MSI LAPTOP\Desktop\Poryectos Progra\Recuperatori1\bin\Debug\net9.0\Recuperatori1.exe
+C:\Users\MSI LAPTOP\Desktop\Poryectos Progra\Recuperatori1\bin\Debug\net9.0\Recuperatori1.deps.json
+C:\Users\MSI LAPTOP\Desktop\Poryectos Progra\Recuperatori1\bin\Debug\net9.0\Recuperatori1.runtimeconfig.json
+C:\Users\MSI LAPTOP\Desktop\Poryectos Progra\Recuperatori1\bin\Debug\net9.0\Recuperatori1.dll
+C:\Users\MSI LAPTOP\Desktop\Poryectos Progra\Recuperatori1\bin\Debug\net9.0\Recuperatori1.pdb
+C:\Users\MSI LAPTOP\Desktop\Poryectos Progra\Recuperatori1\obj\Debug\net9.0\Recuperatori1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MSI LAPTOP\Desktop\Poryectos Progra\Recuperatori1\obj\Debug\net9.0\Recuperatori1.AssemblyInfoInputs.cache
+C:\Users\MSI LAPTOP\Desktop\Poryectos Progra\Recuperatori1\obj\Debug\net9.0\Recuperatori1.AssemblyInfo.cs
+C:\Users\MSI LAPTOP\Desktop\Poryectos Progra\Recuperatori1\obj\Debug\net9.0\Recuperatori1.csproj.CoreCompileInputs.cache
+C:\Users\MSI LAPTOP\Desktop\Poryectos Progra\Recuperatori1\obj\Debug\net9.0\Recuperatori1.dll
+C:\Users\MSI LAPTOP\Desktop\Poryectos Progra\Recuperatori1\obj\Debug\net9.0\refint\Recuperatori1.dll
+C:\Users\MSI LAPTOP\Desktop\Poryectos Progra\Recuperatori1\obj\Debug\net9.0\Recuperatori1.pdb
+C:\Users\MSI LAPTOP\Desktop\Poryectos Progra\Recuperatori1\obj\Debug\net9.0\Recuperatori1.genruntimeconfig.cache
+C:\Users\MSI LAPTOP\Desktop\Poryectos Progra\Recuperatori1\obj\Debug\net9.0\ref\Recuperatori1.dll
